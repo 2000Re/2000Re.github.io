@@ -1,0 +1,10 @@
+:root { --bg: #08080e; --fg: #ecebe6; --sub: #9aa0bd; --line: #2a2c3c; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg);
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif; line-height: 1.9; }
+main { max-width: 680px; margin: 0 auto; padding: 56px 16px 80px; }
+h1 { font-weight: 300; font-size: 2rem; letter-spacing: .2em; margin: 0 0 8px; }
+h2 { font-weight: 400; font-size: 1.1rem; margin: 40px 0 8px; border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+.tagline { color: var(--sub); letter-spacing: .15em; margin: 0 0 40px; }
+a { color: #a9c4ff; }
+footer { margin-top: 64px; color: var(--sub); font-size: .9rem; border-top: 1px solid var(--line); padding-top: 16px; }
