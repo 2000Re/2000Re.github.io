@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://2000re.github.io/painted-when/sitemap.xml
 Sitemap: https://2000re.github.io/guess-from-space/sitemap.xml
+Sitemap: https://2000re.github.io/wait-that-big/sitemap.xml
